@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a software engineering student at my last year.<br>🌱 Currently i'm interested in Java development and machine learning.<br>
+🔭 I’m a fresh graduate software engineer.<br>🌱 Currently i'm interested in Java development and machine learning.<br>
 
 
 ## 🌐 Socials:
