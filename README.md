@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a software engineering student at my last year.<br>🌱 Currently i'm interested in Java development and machine learning.<br>🤝 I’m looking to collaborate on big android development projects and machine learning projects to gain more experiences. <br>⚡ I'm an artist too.
+🔭 I’m a software engineering student at my last year.<br>🌱 Currently i'm interested in Java development and machine learning.<br>
 
 
 ## 🌐 Socials:
