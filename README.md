@@ -5,12 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bavllymagid" alt="bavllymagid" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/bavlly17" target="blank"><img src="https://img.shields.io/twitter/follow/bavlly17?logo=twitter&style=for-the-badge" alt="bavlly17" /></a> </p>
+
 - 📫 How to reach me **pavllymagid04@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1WRo4pr1YvpgsNVN3XWrnhHPELxuPK3Cr/view?usp=sharing](https://drive.google.com/file/d/1WRo4pr1YvpgsNVN3XWrnhHPELxuPK3Cr/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/bavlly17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bavlly17" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bavlly-magid-224a661ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bavlly-magid-224a661ba" height="30" width="40" /></a>
 <a href="https://kaggle.com/bavllymagid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bavllymagid" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pavllymagid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pavllymagid" height="30" width="40" /></a>
