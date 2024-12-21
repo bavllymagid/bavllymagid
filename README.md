@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pavllymagid04@gmail.com**
 
-- 📄 Know about my experiences check my [Resume](https://drive.google.com/file/d/1WRo4pr1YvpgsNVN3XWrnhHPELxuPK3Cr/view?usp=sharing)
+- 📄 Know about my experiences check my **[Resume](https://drive.google.com/file/d/1WRo4pr1YvpgsNVN3XWrnhHPELxuPK3Cr/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
