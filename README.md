@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bavlly magid</h1>
-<h3 align="center">I’m a fresh graduate software engineer</h3>
+<h3 align="center">I’m a junior software engineer at nokia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bavllymagid&label=Profile%20views&color=0e75b6&style=flat" alt="bavllymagid" /> </p>
 
