@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **pavllymagid04@gmail.com**
 
-- 📄 Know about my experiences check my **[Resume](https://drive.google.com/file/d/1WRo4pr1YvpgsNVN3XWrnhHPELxuPK3Cr/view?usp=sharing)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bavlly17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bavlly17" height="30" width="40" /></a>
